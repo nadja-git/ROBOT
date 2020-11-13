@@ -1,2 +1,2 @@
 # ROBOT
-New project within gpoup called "ROBOT"
+New project within ME-gpoup called "ROBOT"
